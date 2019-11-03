@@ -1,0 +1,13 @@
+{
+  "name": "basic-nodejs-workout",
+  "version": "1.0.0",
+  "description": "Learning from Schwarzmueller's Node.js Complete Guide",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": "https://github.com/GoldenMaximo/Basic-NodeJS-Workout.git",
+  "author": "Gustavo Máximo <gfmaximo97@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
