@@ -9,5 +9,8 @@
   "repository": "https://github.com/GoldenMaximo/Basic-NodeJS-Workout.git",
   "author": "Gustavo Máximo <gfmaximo97@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
 }
