@@ -1,0 +1,26 @@
+{
+  "name": "basic-nodejs-workout",
+  "version": "1.0.0",
+  "description": "Project based on NodeJS - The Complete Guide (incl. Deno, REST APIs, GraphQL) Section 3 & 4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoldenMaximo/Basic-NodeJS-Workout.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Gustavo Máximo Filho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoldenMaximo/Basic-NodeJS-Workout/issues"
+  },
+  "homepage": "https://github.com/GoldenMaximo/Basic-NodeJS-Workout#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
